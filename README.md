@@ -6,7 +6,7 @@ This repository includes everything necessary for running a "Ungoogle yourself o
 ## Prerequisites
 To be able to follow all the steps mentioned in the guide you'll need:
 * Access to Tealium iQ, EventStream and (optionally) AudienceStream,
-* Microsoft Azure subscription (unfortunately Databricks doesn't fulle work with the free trial one). 
+* Microsoft Azure subscription (unfortunately Databricks doesn't fully work with the free trial one). 
 
 ## Acknowledgments
 Big thanks to everyone who helped preparing this workshop:
